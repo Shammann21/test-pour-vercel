@@ -223,3 +223,9 @@ blockquote p {
     line-height: 28px;
   }
 }
+
+.bg-cover {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
